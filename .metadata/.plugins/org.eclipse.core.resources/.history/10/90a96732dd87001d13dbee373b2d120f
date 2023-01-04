@@ -1,0 +1,32 @@
+package com.ezen.spring.dao;
+
+import java.util.List;
+
+import com.ezen.spring.domain.BoardVO;
+import com.ezen.spring.domain.PagingVO;
+
+public interface BoardDAO {
+
+	int posting(BoardVO bvo);
+
+	List<BoardVO> selectList();
+
+	BoardVO selectOneDetail(int bno);
+
+	int updateReadCount(int bno);
+
+	int modify(BoardVO bvo);
+
+	BoardVO modifyGet(int bno);
+
+	int delete(int bno);
+
+	List<BoardVO> selectListPaging(PagingVO pgvo);
+
+	int selectListCount();
+
+	int selectOneBno();
+
+	int deleteFile(String uuid);
+
+}

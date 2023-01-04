@@ -1,0 +1,38 @@
+package com.ezen.spring.service;
+
+import java.util.List;
+
+import com.ezen.spring.domain.BoardDTO;
+import com.ezen.spring.domain.BoardVO;
+import com.ezen.spring.domain.PagingVO;
+import com.ezen.spring.domain.UserVO;
+
+public interface BoardService {
+
+	int posting(BoardVO bvo);
+
+	List<BoardVO> list();
+
+	BoardVO detail(int bno);
+
+	int updateReadCount(int bno);
+
+	int modify(BoardVO bvo, UserVO user);
+
+	BoardVO modifyGet(int bno);
+
+	int delete(int bno, UserVO user);
+
+	List<BoardVO> list(PagingVO pgvo);
+
+	int getListCount();
+
+	int posting(BoardDTO boardDTO);
+
+	BoardDTO getDetail(int bno);
+
+	BoardDTO getModify(int bno);
+
+	int modify(BoardDTO boardDTO);
+	
+}

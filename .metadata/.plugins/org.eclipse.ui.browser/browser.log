@@ -1,0 +1,69 @@
+
+12월 23, 2022 10:55:26.268 NEW SESSION
+12월 23, 2022 10:55:26.268 [12480:6528:1223/105526.265:ERROR:device_event_log_impl.cc(215)] [10:55:26.267] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:13:53.562 [10748:10548:1223/111353.561:ERROR:device_event_log_impl.cc(215)] [11:13:53.561] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:14:51.501 [10748:5272:1223/111451.501:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 11:22:58.615 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 11:27:59.801 [6608:4752:1223/112759.801:ERROR:device_event_log_impl.cc(215)] [11:27:59.807] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:28:57.784 [6608:1972:1223/112857.784:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 11:33:28.827 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 11:34:41.228 [6608:8348:1223/113441.228:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.desktopwallpaperhd.net failed:
+12월 23, 2022 11:34:41.229 ----- Certificate i=0 (emailAddress=info@parallels.com,CN=Parallels Panel,OU=Parallels Panel,O=Parallels,L=Herndon,ST=Virginia,C=US) -----
+12월 23, 2022 11:34:41.229 ERROR: No matching issuer found
+12월 23, 2022 11:34:41.230 
+12월 23, 2022 11:34:41.230 
+12월 23, 2022 11:35:22.37 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 12:49:40.72 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 12:51:18.880 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:05:59.999 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:06:38.08 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:07:20.43 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:08:17.198 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:09:24.784 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:09:49.966 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:26:07.673 [6608:4752:1223/132607.673:ERROR:gpu_process_host.cc(990)] GPU process exited unexpectedly: exit_code=34
+12월 23, 2022 14:49:14.25 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 14:51:58.767 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 23, 2022 16:28:57.793 [6608:6392:1223/162857.793:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 18:00:25.524 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 18:01:03.122 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 18:01:14.629 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 18:01:34.659 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 18:15:41.799 [6608:4752:1223/181541.798:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 23, 2022 18:16:23.178 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+
+12월 24, 2022 10:06:20.891 NEW SESSION
+12월 24, 2022 10:06:20.891 [5720:2460:1224/100620.891:ERROR:device_event_log_impl.cc(215)] [10:06:20.891] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 24, 2022 10:07:18.864 [5720:7600:1224/100718.864:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 24, 2022 10:21:06.98 [10760:13116:1224/102106.098:ERROR:device_event_log_impl.cc(215)] [10:21:06.108] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 24, 2022 10:22:04.76 [10760:10400:1224/102204.076:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+12월 27, 2022 11:02:29.864 NEW SESSION
+12월 27, 2022 11:02:29.864 [8112:10600:1227/110229.864:ERROR:device_event_log_impl.cc(215)] [11:02:29.863] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 27, 2022 11:03:27.779 [8112:1780:1227/110327.779:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 27, 2022 14:13:05.553 [8112:10600:1227/141305.553:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 27, 2022 14:19:00.582 [8112:10600:1227/141900.582:ERROR:device_event_log_impl.cc(215)] [14:19:00.581] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+
+12월 28, 2022 09:44:55.607 NEW SESSION
+12월 28, 2022 09:44:55.607 [11668:5472:1228/094455.606:ERROR:device_event_log_impl.cc(215)] [09:44:55.606] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 28, 2022 09:45:39.666 [11668:5472:1228/094539.666:ERROR:device_event_log_impl.cc(215)] [09:45:39.666] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 28, 2022 09:45:53.554 [11668:2432:1228/094553.554:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 28, 2022 14:45:53.560 [11668:6196:1228/144553.559:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 28, 2022 16:20:36.752 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 28, 2022 16:21:04.30 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 28, 2022 18:17:58.900 [11668:5472:1228/181758.900:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+12월 28, 2022 18:17:59.464 [11668:5472:1228/181759.464:ERROR:device_event_log_impl.cc(215)] [18:17:59.464] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+12월 30, 2022 09:47:08.560 NEW SESSION
+12월 30, 2022 09:47:08.560 [1892:10892:1230/094708.559:ERROR:device_event_log_impl.cc(215)] [09:47:08.558] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 30, 2022 09:48:06.476 [1892:1936:1230/094806.476:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 30, 2022 09:55:21.825 [3412:9660:1230/095521.825:ERROR:device_event_log_impl.cc(215)] [09:55:21.824] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 30, 2022 09:56:19.822 [3412:12708:1230/095619.822:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 30, 2022 10:12:14.423 [3412:9660:1230/101214.423:ERROR:device_event_log_impl.cc(215)] [10:12:14.421] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 30, 2022 14:51:59.805 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12월 30, 2022 14:56:19.824 [3412:1072:1230/145619.824:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 30, 2022 15:12:51.296 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 30, 2022 15:13:07.723 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 30, 2022 15:20:36.632 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 30, 2022 15:36:40.417 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 30, 2022 15:43:07.275 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
